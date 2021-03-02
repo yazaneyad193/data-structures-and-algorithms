@@ -160,6 +160,7 @@ const howManyTreats = (arr) => {
         if (i.name === 'Treats') {
           treats = i.quantity;
         }
+
       });
     }
   });
